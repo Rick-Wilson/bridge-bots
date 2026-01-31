@@ -9,4 +9,4 @@ train/data
 dist/
 */poetry.lock
 **/logs
-**/checkpoints
+**/checkpointsactivity-log.json
